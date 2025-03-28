@@ -5,28 +5,28 @@ En esta aplicación se podrán ver instrumentos financieros, un balance de un po
 
 ## 🚀 Instalación y Configuración
 
-### 1️⃣ Clonar el repositorio
+1) Clonar repositorio
 ```sh
 git clone https://github.com/Rodriip95/inversionesApp.git
 cd inversionesApp
 ```
 
-### 2️⃣ Instalar dependencias
+2) Instalar dependencias
 Si usas **Yarn**:
 ```sh
 yarn install
 ```
-Si usas **npm** (todas las dependencias fueron instaladas con npm):
+Si usas **npm** (todas las dependencias fueron instaladas con esta herramienta):
 ```sh
 npm install
 ```
 
-### 3️⃣ Levantar la aplicación en modo desarrollo
+3) Levantar la aplicación en modo desarrollo
 Ejecuta el siguiente comando:
 ```sh
 npm run start
 ```
-Luego, escanea el código QR en la terminal con **Expo Go** en tu teléfono o usa un emulador.
+Luego escanea el código QR con **Expo Go** en tu teléfono o en un emulador de Android correr el comando `npm run android`.
 
 ---
 
